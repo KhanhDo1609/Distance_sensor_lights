@@ -8,15 +8,23 @@ Five LEDs create a proximity-controlled ambient light using an Arduino Uno and a
 
 ## Three video demos
 
-All three supplied MP4 recordings are included unchanged. Open a video using its **Watch** link; use **Download** to save the original file. If your browser cannot play a recording's codec, download it and open it in a local video player.
+All three supplied MP4 recordings are included unchanged. GitHub's repository file viewer does not play these videos inline. The included gallery has **three embedded video players**, each with a **Download MP4** button.
 
-| Demo | Watch on GitHub | Download MP4 |
+### Watch online with GitHub Pages
+
+The gallery is ready to publish. To enable it, open [Settings → Pages](https://github.com/KhanhDo1609/Distance_sensor_lights/settings/pages), choose **Deploy from a branch**, select **main** and **/docs**, and click **Save**. After GitHub finishes publishing, the gallery will be available at:
+
+**[Open the three-demo gallery](https://khanhdo1609.github.io/Distance_sensor_lights/)** — requires the Pages setting above.
+
+### Download the original videos
+
+| Demo | Repository file | Download MP4 |
 | --- | --- | --- |
-| 1 — IMG_0122 | [Watch demo 1](docs/demos/IMG_0122.mp4) | [Download demo 1](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0122.mp4) |
-| 2 — IMG_0123 | [Watch demo 2](docs/demos/IMG_0123.mp4) | [Download demo 2](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0123.mp4) |
-| 3 — IMG_0124 | [Watch demo 3](docs/demos/IMG_0124.mp4) | [Download demo 3](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0124.mp4) |
+| 1 — IMG_0122 | [Demo 1 file](docs/demos/IMG_0122.mp4) | [Download demo 1](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0122.mp4) |
+| 2 — IMG_0123 | [Demo 2 file](docs/demos/IMG_0123.mp4) | [Download demo 2](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0123.mp4) |
+| 3 — IMG_0124 | [Demo 3 file](docs/demos/IMG_0124.mp4) | [Download demo 3](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0124.mp4) |
 
-For a single page with three embedded video players and download buttons, download or clone this repository and open `docs/index.html` in a browser. The gallery also works with GitHub Pages when configured to publish the `docs` folder from `main`.
+To watch immediately without publishing, download or clone this repository and open `docs/index.html` in a browser. Keep the `docs/demos` folder beside it. If your browser cannot play a recording's codec, download it and open it in a local video player.
 
 ## Parts
 

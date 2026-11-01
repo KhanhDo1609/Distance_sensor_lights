@@ -6,25 +6,29 @@ Five LEDs create a proximity-controlled ambient light using an Arduino Uno and a
 
 [Run the Wokwi simulation](https://wokwi.com/projects/479462698364160001) · [Arduino sketch](Distance_sensor_lights/Distance_sensor_lights.ino) · [Demo gallery source](docs/index.html)
 
-## Three video demos
+## Demo
 
-All three supplied MP4 recordings are included unchanged. GitHub's repository file viewer does not play these videos inline. The included gallery has **three embedded video players**, each with a **Download MP4** button.
+Move an object closer to brighten the LEDs from bottom to top. Each preview below plays directly in this README; the original MP4 is linked underneath for watching or downloading.
 
-### Watch online with GitHub Pages
+### Demo 1
 
-The gallery is ready to publish. To enable it, open [Settings → Pages](https://github.com/KhanhDo1609/Distance_sensor_lights/settings/pages), choose **Deploy from a branch**, select **main** and **/docs**, and click **Save**. After GitHub finishes publishing, the gallery will be available at:
+![Demo 1: distance sensor lights in action](docs/previews/IMG_0122.gif)
 
-**[Open the three-demo gallery](https://khanhdo1609.github.io/Distance_sensor_lights/)** — requires the Pages setting above.
+[Watch or download the original demo video](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0122.mp4)
 
-### Download the original videos
+### Demo 2
 
-| Demo | Repository file | Download MP4 |
-| --- | --- | --- |
-| 1 — IMG_0122 | [Demo 1 file](docs/demos/IMG_0122.mp4) | [Download demo 1](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0122.mp4) |
-| 2 — IMG_0123 | [Demo 2 file](docs/demos/IMG_0123.mp4) | [Download demo 2](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0123.mp4) |
-| 3 — IMG_0124 | [Demo 3 file](docs/demos/IMG_0124.mp4) | [Download demo 3](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0124.mp4) |
+![Demo 2: distance sensor lights in action](docs/previews/IMG_0123.gif)
 
-To watch immediately without publishing, download or clone this repository and open `docs/index.html` in a browser. Keep the `docs/demos` folder beside it. If your browser cannot play a recording's codec, download it and open it in a local video player.
+[Watch or download the original demo video](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0123.mp4)
+
+### Demo 3
+
+![Demo 3: distance sensor lights in action](docs/previews/IMG_0124.gif)
+
+[Watch or download the original demo video](https://github.com/KhanhDo1609/Distance_sensor_lights/raw/refs/heads/main/docs/demos/IMG_0124.mp4)
+
+The animated previews loop silently. The three original MP4 files are preserved unchanged. A separate [three-player gallery](docs/index.html) is also included; open it locally after downloading the repository.
 
 ## Parts
 
@@ -112,6 +116,7 @@ Distance_sensor_lights/Distance_sensor_lights.ino  Commented Arduino sketch
 wokwi/sketch.ino                                 Matching simulator sketch
 wokwi/diagram.json                               Exported simulator circuit
 docs/index.html                                 Three-player demo gallery
+docs/previews/                                  Animated README previews
 docs/demos/IMG_0122.mp4                           Original demo 1
 docs/demos/IMG_0123.mp4                           Original demo 2
 docs/demos/IMG_0124.mp4                           Original demo 3
